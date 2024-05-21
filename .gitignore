@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+scratchpad.py
 # Distribution / packaging
 .Python
 build/
